@@ -1,0 +1,10 @@
+C:\Users\kaimi\source\repos\SterowanieTCP\SterowanieTCP\bin\Debug\SterowanieTCP.exe.config
+C:\Users\kaimi\source\repos\SterowanieTCP\SterowanieTCP\bin\Debug\SterowanieTCP.exe
+C:\Users\kaimi\source\repos\SterowanieTCP\SterowanieTCP\bin\Debug\SterowanieTCP.pdb
+C:\Users\kaimi\source\repos\SterowanieTCP\SterowanieTCP\obj\Debug\SterowanieTCP.csprojAssemblyReference.cache
+C:\Users\kaimi\source\repos\SterowanieTCP\SterowanieTCP\obj\Debug\SterowanieTCP.Form1.resources
+C:\Users\kaimi\source\repos\SterowanieTCP\SterowanieTCP\obj\Debug\SterowanieTCP.Properties.Resources.resources
+C:\Users\kaimi\source\repos\SterowanieTCP\SterowanieTCP\obj\Debug\SterowanieTCP.csproj.GenerateResource.cache
+C:\Users\kaimi\source\repos\SterowanieTCP\SterowanieTCP\obj\Debug\SterowanieTCP.csproj.CoreCompileInputs.cache
+C:\Users\kaimi\source\repos\SterowanieTCP\SterowanieTCP\obj\Debug\SterowanieTCP.exe
+C:\Users\kaimi\source\repos\SterowanieTCP\SterowanieTCP\obj\Debug\SterowanieTCP.pdb

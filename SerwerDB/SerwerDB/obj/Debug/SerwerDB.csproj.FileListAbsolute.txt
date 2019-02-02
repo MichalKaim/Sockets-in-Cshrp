@@ -1,0 +1,7 @@
+C:\Users\kaimi\source\repos\SerwerDB\SerwerDB\bin\Debug\SerwerDB.exe.config
+C:\Users\kaimi\source\repos\SerwerDB\SerwerDB\bin\Debug\SerwerDB.exe
+C:\Users\kaimi\source\repos\SerwerDB\SerwerDB\bin\Debug\SerwerDB.pdb
+C:\Users\kaimi\source\repos\SerwerDB\SerwerDB\obj\Debug\SerwerDB.csprojAssemblyReference.cache
+C:\Users\kaimi\source\repos\SerwerDB\SerwerDB\obj\Debug\SerwerDB.csproj.CoreCompileInputs.cache
+C:\Users\kaimi\source\repos\SerwerDB\SerwerDB\obj\Debug\SerwerDB.exe
+C:\Users\kaimi\source\repos\SerwerDB\SerwerDB\obj\Debug\SerwerDB.pdb
